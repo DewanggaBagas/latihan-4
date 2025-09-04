@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Layout Umum */
+.section {
+  padding: 20px;
+  text-align: center;
+}
+
+.header {
+  background-color: #fde3bb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+.logo {
+    background-color: rgb(255, 255, 255);
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.hero {
+  background-color: #568edb;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.service-section,
+.about-section,
+.contact-section {
+  background-color: #fff5cc;
+}
+
+.about-section {
+  background-color: #e5daef;
+}
+
+.contact-section {
+  background-color: #d6e9d0;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  padding: 10px;
+  text-align: left;
+}
+
+.form-group {
+  margin: 10px;
+}
+
+.input {
+  width: 90%;
+  padding: 8px;
+  margin: 5px 0;
+}
+.input-nama-email {
+  width: 25%;
+  padding: 10px;
+  margin: 5px 0;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.button-kirim {
+    margin-right: 1565px;
+  padding: 5px 40px;
+  background-color: rgb(25, 0, 255);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  border-color: black;
+  
+  
+}
+.button-all {
+  padding: 10px 30px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  border-color: black;
+  
+  
+}
+
+.footer {
+  background-color: #fde3bb;
+  padding: 20px;
+  text-align: center;
+}

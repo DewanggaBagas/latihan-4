@@ -1,0 +1,82 @@
+
+.contact-section {
+  background-color: rgb(7, 122, 113);
+}
+
+.section {
+  padding: 20px;
+  text-align: left;
+}
+
+.form-group {
+  margin: 10px;
+}
+
+.input-nama-email {
+  width: 25%;
+  padding: 10px;
+  margin: 2px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.button-kirim {
+    margin-right: 1565px;
+  padding: 5px 40px;
+  background-color: rgb(25, 0, 255);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  border-color: black;
+  
+  
+}
+.button-all {
+  padding: 10px 30px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  border-color: black;
+  
+  
+}
+
+
+.bg-tpr{
+    background-color: rgb(7, 122, 113);
+}
+
+.bg-tprA{
+    background-color: rgb(121, 122, 122);
+}
+
+.side-right{
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: -70px;
+
+}
+
+.koenigsegg-font {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 36px;
+      color: #ffffff;
+    }
+
+
+.side-right-wer{
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: -70px;
+}
+
+.push-top{
+    margin-top: 50px;
+}
+
+.font-besar{
+    font-size: 100px;
+}
+
+.tepi-kiri{
+    text-align: start;
+}
